@@ -1,0 +1,17 @@
+const CREATE_POST = "posts:CREATE_POST"
+const EDIT_POST = "posts:EDIT_POST"
+const DELETE_POST = "posts:DELETE_POST"
+const GET_ALL_PROFILE_POSTS = "posts:GET_ALL_PROFILE_POSTS"
+const GET_ALL_POSTS = "posts:GET_ALL__POSTS"
+
+
+
+module.exports ={
+    CREATE_POST ,
+    EDIT_POST,
+    DELETE_POST,
+    GET_ALL_PROFILE_POSTS,
+    GET_ALL_POSTS
+
+}
+

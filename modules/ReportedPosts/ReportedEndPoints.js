@@ -1,0 +1,7 @@
+const REPORTED_POST = "report:REPORTED_POST"
+const REVIEW_REPORTED_POSTS = "report:REVIEW_POSTS"
+
+module.exports ={
+    REPORTED_POST,
+    REVIEW_REPORTED_POSTS
+}

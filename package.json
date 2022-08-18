@@ -1,0 +1,28 @@
+{
+  "name": "Exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.0",
+    "easy-rbac": "^3.2.0",
+    "encrypt-phone-numbers": "^1.0.1",
+    "express": "^4.17.3",
+    "http-status-codes": "^2.2.0",
+    "joi": "^17.6.0",
+    "joi-objectid": "^4.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.2",
+    "multer": "^1.4.4",
+    "nodemailer": "^6.7.2",
+    "pdfkit": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
